@@ -5,7 +5,7 @@
              https://github.com/dfmcvn/getFBtoken
              https://github.com/tro1d/bot-reaction-gettoken
 */
-//////Modified by まやちゃん//////
+//////Modified by Mr.Kintil/ImamIlyasa//////
 echo "\033[1;34m   _______      ___  _______  ___________ \n";
 echo "  / __/ _ )____/ _ \/ __/ _ |/ ___/_  __/ \n";
 echo " / _// _  /___/ , _/ _// __ / /__  / / \n";
