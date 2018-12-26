@@ -5,7 +5,7 @@
              https://github.com/dfmcvn/getFBtoken
              https://github.com/tro1d/bot-reaction-gettoken
 */
-//////Modified by まやちゃん//////
+//////Modified by Mr.Kintil/ImamIlyasa//////
 error_reporting(E_ALL);
 header('Origin: https://facebook.com');
 define('API_SECRET', '62f8ce9f74b12f84c123cc23437a4a32');
