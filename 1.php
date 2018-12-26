@@ -5,7 +5,7 @@
              https://github.com/dfmcvn/getFBtoken
              https://github.com/tro1d/bot-reaction-gettoken
 */
-//////Modified by まやちゃん//////
+//////Modified by Mr.Kintil/ImamIlyasa//////
 function code($user1, $pass1, $r_male1,$r_female1,$max_status1){
 $buat = '<?php
 $user = "'.$user1.'";
